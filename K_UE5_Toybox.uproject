@@ -13,6 +13,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
