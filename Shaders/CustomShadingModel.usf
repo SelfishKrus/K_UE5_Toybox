@@ -1,6 +1,9 @@
-float TestFunction()
+float3 TestFunction()
 {
-    return 0.5f;
+    return float3(1.0f, 0.0, 0.0);
 }
 
-return 1.0f;
+float3 Output()
+{
+    return TestFunction();
+}
