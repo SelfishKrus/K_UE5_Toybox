@@ -1,0 +1,4 @@
+float3 TestFunction()
+{
+    return float3(1.0f, 0.0, 0.0);
+}
